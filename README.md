@@ -3,7 +3,7 @@
 ## Project Title: RNA-Seq Analysis RShiny App
 ### Course: R for Biological Sciences, BU (CDSBF 591)
 
-### Brief Project Description: 
+### Project Description: 
 Developed an RShiny app to investigate gene expression in fruit flies exposed to temperature changes. This application walks the users through the data, classic RNA-Seq analysis steps, and interactive visualizations. RNA-Seq count normalization and differential expression analysis were done with DESeq2 from Bioconductor. Gene set enrichment analysis (GSEA) was done with the fgsea library. GSEA provides insight into the biological pathways that are negatively and positively enriched in the experimental condition. The goal of this project was to perform a full RNA-Seq analysis from raw count data and create interactive visualizations to walk the user through the steps of the analysis and data preparation.
 
 ### Software and Packages
